@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+  margin-top: 20px;
+  background-color: #F4EDEA;
+  font-family: Arial, sans-serif; 
+}
+
+img {
+  height: 200px;
+  width: 100%; 
+  object-fit: cover;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+input {
+  font-weight: bold;
+  padding: 5px; 
+  border-radius: 4px; 
+  border: 1px solid
+}
+
+h2 {
+  background-color:#12263A ;
+  color: white;
+  padding: 15px;
+  border-radius: 8px;
+  font-size: 24px;
+}
+
+.subject-img {
+  width: 100%;
+  max-height: 180px;
+  object-fit: cover;
+  border-radius: 8px; 
+}
